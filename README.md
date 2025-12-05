@@ -3,13 +3,17 @@
 
   
   ##  Description
-An AI-powered training platform that helps employees learn to identify phishing emails through realistic simulations, instant feedback, and performance analytics. The system delivers mixed legitimate and phishing emails, tracks user accuracy, and provides insights to improve organizational cybersecurity awareness.
+An AI-driven analytical platform designed to assess Twitter accounts for potential cybercrime indicators. The system performs advanced text processing and machine-learning classification to identify content patterns associated with suspicious, illicit, or harmful online behavior.
 
 
-## 🪄 Features
+###  Features
 
--Users receive simulated phishing & legitimate emails
+-Automated analysis of Twitter accounts
 
--Instant feedback for incorrect classifications
+-Risk scoring for each user
 
--Admin dashboard to track accuracy & common mistakes
+-Simple dashboard showing detected suspicious tweets
+
+###🛠 Tech Stack
+
+Python · scikit-learn · NLP (NLTK/spaCy) · Flask · HTML/CSS/JS
