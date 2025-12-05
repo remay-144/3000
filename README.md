@@ -14,6 +14,8 @@ An AI-driven analytical platform designed to assess Twitter accounts for potenti
 
 -Simple dashboard showing detected suspicious tweets
 
-###🛠 Tech Stack
+
+
+### 🛠 Tech Stack
 
 Python · scikit-learn · NLP (NLTK/spaCy) · Flask · HTML/CSS/JS
